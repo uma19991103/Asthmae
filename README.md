@@ -12,7 +12,7 @@
 
 * $ git config --global user.email "*****"
 
-##### Functions
+#### Functions
 
 * git status
 
