@@ -2,22 +2,24 @@
 ## Class usage "Web APP" 
 - [x] 為你自己學GIT 電子書
 ### Instruction
-* GIT COMMANDS
+#### GIT COMMANDS
 
-File(folder) git
+* File(folder) git
 
-global setup
+* global setup
 
-$ git config --global user.name "*****"
+* $ git config --global user.name "*****"
 
-$ git config --global user.email "*****"
+* $ git config --global user.email "*****"
 
-Functions
+##### Functions
 
-git status
+* git status
 
-git add(TAB) git add -- git add .
+* git add(TAB) git add -- git add .
 
-git commit -m"*****"
+* git commit -m"*****"
 
-git log
+* git log
+
+* git push origin
